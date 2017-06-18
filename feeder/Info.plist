@@ -2,6 +2,42 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>fbauth2</string>
+	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb450239785330088</string>
+			</array>
+		</dict>
+	</array>
+	<key>FacebookAppID</key>
+	<string>450239785330088</string>
+	<key>FacebookDisplayName</key>
+	<string>Feeder</string>
+    <key>Fabric</key>
+    <dict>
+        <key>APIKey</key>
+        <string>a4cddd6848b7a0eb81f42cfd7179cf11bf147e22</string>
+        <key>Kits</key>
+        <array>
+            <dict>
+                <key>KitInfo</key>
+                <dict>
+                    <key>consumerKey</key>
+                    <string>NT1bicu6RxO401aRUQm3E1PXM</string>
+                    <key>consumerSecret</key>
+                    <string>lcCAew9O4yWndrgX80a0xWf38UY1nCNIGiOtM1NAV4Bf5HVeCv</string>
+                </dict>
+                <key>KitName</key>
+                <string>Twitter</string>
+            </dict>
+        </array>
+    </dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
